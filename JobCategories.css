@@ -1,0 +1,38 @@
+.job-categories {
+  padding: 40px 0;
+  text-align: center;
+}
+
+.category-header {
+  margin-bottom: 20px;
+}
+
+.section-title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+.section-subtitle {
+  color: #7f8c8d;
+  margin-bottom: 40px;
+}
+
+.category-card {
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.category-card .card-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #34495e;
+}
+
+.category-card .card-text {
+  color: #95a5a6;
+}
+
